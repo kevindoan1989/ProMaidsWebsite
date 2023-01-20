@@ -707,3 +707,29 @@ li > a {
     z-index: 100;
     border-radius: 50%;
   }
+  .float{
+    position:fixed;
+    width:50px;
+    height:50px;
+    bottom:190px;
+    right:1px;
+    background-color:#25d366;
+    color:#FFF;
+    border-radius:50px;
+    text-align:center;
+    font-size:30px;
+    box-shadow: 2px 2px 3px #999;
+    z-index:101;
+    padding-top: 10px;
+  }
+  
+  .my-float{
+    margin-top:26px;
+    width: 20px;
+    height: 20px;
+  }
+
+  .logo_img_whatapps {
+    width: 32px;
+    height: 32px;
+  }
