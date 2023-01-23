@@ -416,7 +416,7 @@ li > a {
   }
   .effect-4:after {
     top: 0;
-    transform: translateX(100%);
+    transform: translateX(102%);
   }
   .effect-4:hover:before, .effect-4:hover:after {
     transform: translateX(0);
