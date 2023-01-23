@@ -249,11 +249,11 @@
     .qr_mobile {
         margin-top: 100px;
    }
-    .slide {
+    /* .slide {
         height: 270px !important;
         width: 390px;
         overflow-x: hidden;
-   }
+   } */
     .carousel-inner {
         top: 0px;
    }
@@ -520,11 +520,11 @@
         width: 730px !important;
         height: 270px !important;
    }
-    .slide {
+    /* .slide {
         height: 270px !important;
         width: 720px;
         overflow: hidden;
-   }
+   } */
     .carousel-indicators.carousel-top {
         left: 35px;
         bottom: 0px;
@@ -786,11 +786,11 @@
         width: 730px !important;
         height: 270px !important;
    }
-    .slide {
+    /* .slide {
         height: 270px !important;
         width: 720px;
         overflow: hidden;
-   }
+   } */
     .carousel-indicators.carousel-top {
         left: 35px;
         bottom: 0px;
