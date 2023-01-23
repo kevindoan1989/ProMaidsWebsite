@@ -765,6 +765,12 @@
         margin: 15px 0;
         font-size: 16px;
    }
+
+   .text-color-primary {
+        color: #338F00;
+        font-size: 40px;
+        font-weight: bolder;
+    }
 }
 
 
@@ -1024,11 +1030,11 @@
    }
 
    .float{
-    position:fixed;
+    position: fixed;
+    top: 68%;
+    right: 0px;
     width:50px;
     height:50px;
-    bottom:40%;
-    right:1px;
     background-color:#25d366;
     color:#FFF;
     border-radius:50px;
@@ -1050,5 +1056,14 @@
   }
   .header_nav_item {
     width: 20%;
+    }
+
+    .outquartitle {
+        padding: 10px;
+        background-color: #EDEDED;
+        border-radius: 10px;
+        min-height: 140px;
+        /* opacity: 0.7; */
+        box-shadow: 10px 10px 10px #dedede;
     }
 }
