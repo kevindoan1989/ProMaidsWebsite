@@ -143,21 +143,21 @@ $(document).ready(function(){
   }
 
   function openFormCenterPopup() {
-      let widthPop = $('.form-popup').width();
-      let heightPop = $('.form-popup').height();
-      let widthpar = -widthPop/2 + 'px' ;
-      let hightpar = -heightPop+ 'px' ;
+      // let widthPop = $('.form-popup').width();
+      // let heightPop = $('.form-popup').height();
+      // let widthpar = -widthPop/2 + 'px' ;
+      // let hightpar = -heightPop+ 'px' ;
 
-      document.getElementById('myForm').style.top = '50%';
-      document.getElementById('myForm').style.marginTop = -heightPop/2 + 'px';
-      document.getElementById('myForm').style.left = '55%';
-      document.getElementById('myForm').style.marginLeft = hightpar;
-      document.getElementById("myForm").style.display = "block" ;
-      document.getElementById("myForm").style.maxWidth = "800px" ;
-      document.getElementById("myForm").style.minHeight = "300px" ;
-      document.getElementById("myForm").style.maxHeight = "500px" ;
-      document.getElementById("myForm").style.position = "fixed" ;
-      document.getElementById("myForm").style.boxShadow = "5px 5px #f1f1f1" ;
+      // document.getElementById('myForm').style.top = '50%';
+      // document.getElementById('myForm').style.marginTop = -heightPop/2 + 'px';
+      // document.getElementById('myForm').style.left = '55%';
+      // document.getElementById('myForm').style.marginLeft = hightpar;
+      // document.getElementById("myForm").style.display = "block" ;
+      // document.getElementById("myForm").style.maxWidth = "800px" ;
+      // document.getElementById("myForm").style.minHeight = "300px" ;
+      // document.getElementById("myForm").style.maxHeight = "500px" ;
+      // document.getElementById("myForm").style.position = "fixed" ;
+      // document.getElementById("myForm").style.boxShadow = "5px 5px #f1f1f1" ;
       openForm();
       isshowfirst = true;
   }
