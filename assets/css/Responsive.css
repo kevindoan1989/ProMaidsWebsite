@@ -445,7 +445,8 @@
    }
 }
 /* PC */
-@media (min-width: 1024px) and (max-width: 1240px) {
+@media only screen and (max-width: 1240px) and (min-width: 1024px)
+{
     .header {
         background-color: #338f00;
         max-height: 296px;
@@ -525,6 +526,16 @@
         width: 720px;
         overflow: hidden;
    } */
+   li > a {
+        color: white;
+        font-weight: bolder;
+        align-content: center;
+        font-size: 15px;
+    }
+
+    .header_nav_item {
+        width: 25%;
+    }
     .carousel-indicators.carousel-top {
         left: 35px;
         bottom: 0px;
@@ -786,6 +797,12 @@
         width: 730px !important;
         height: 270px !important;
    }
+   li > a {
+        color: white;
+        font-weight: bolder;
+        align-content: center;
+        font-size: 17px;
+    }
     /* .slide {
         height: 270px !important;
         width: 720px;
