@@ -487,11 +487,8 @@ li > a {
 }
 
 .quickcontact {
-    bottom: 1%!important;
-}
-.quickcontact {
     position: fixed;
-    top: 50%;
+    top: 43%;
     right: 0px;
     width: 100px;
     font-size: 0;
