@@ -688,23 +688,19 @@
     .content_section3 .btn_join {
         margin-left: 10px;
    }
-    .content-main-treetech {
+   .content-main-treetech {
         width: 60%;
-        height: 41%;
+        height: 40%;
         display: inline-block;
         justify-content: center;
-        border: 2px dashed #078b00;
-        margin-left: 23%;
-        margin-top: 17%;
+        border: 2px solid #078b00;
+        margin-left: 5%;
+        margin-top: 5%;
         z-index: 3;
         position: absolute;
-        border-radius: 20px;
-       /* opacity: 0.2;
-        */
-       /* background-color: rgb(178, 178, 178);
-        */
+        border-radius: 15px;
         background-color: transparent;
-   }
+    }
     .content_section4 .content_heading {
         padding: 20px 60px;
         width: 500px;
@@ -869,20 +865,16 @@
         color: #424040;
    }
     .content-main-treetech {
-        width: 60%;
-        height: 31%;
+        width: 45%;
+        height: 40%;
         display: inline-block;
         justify-content: center;
-        border: 2px dashed #078b00;
-        margin-left: 23%;
-        margin-top: 17%;
+        border: 2px solid #078b00;
+        margin-left: 5%;
+        margin-top: 5%;
         z-index: 3;
         position: absolute;
-        border-radius: 20px;
-       /* opacity: 0.2;
-        */
-       /* background-color: rgb(178, 178, 178);
-        */
+        border-radius: 15px;
         background-color: transparent;
    }
     .img_section2p2 {
