@@ -1027,7 +1027,7 @@
     position:fixed;
     width:50px;
     height:50px;
-    bottom:50%;
+    bottom:40%;
     right:1px;
     background-color:#25d366;
     color:#FFF;
@@ -1048,4 +1048,7 @@
     width: 32px;
     height: 32px;
   }
+  .header_nav_item {
+    width: 20%;
+    }
 }
