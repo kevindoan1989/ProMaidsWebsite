@@ -491,9 +491,9 @@ li > a {
 }
 .quickcontact {
     position: fixed;
-    top: 200px;
-    right: -409px;
-    width: 500px;
+    top: 50%;
+    right: 0px;
+    width: 100px;
     font-size: 0;
     z-index: 99;
     -webkit-transition: all 0.5s ease;
@@ -708,11 +708,10 @@ li > a {
     border-radius: 50%;
   }
   .float{
-    position:fixed;
-    width:50px;
-    height:50px;
-    bottom:40%;
-    right:1px;
+    position: fixed;
+    top: 60%;
+    right: 0px;
+    width: 100px;
     background-color:#25d366;
     color:#FFF;
     border-radius:50px;
