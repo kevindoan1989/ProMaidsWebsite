@@ -1081,4 +1081,15 @@
         /* opacity: 0.7; */
         box-shadow: 10px 10px 10px #dedede;
     }
+    .form-popup {
+        background-color: white;
+        top: 24%;
+        left: 22%;
+        display: block;
+        max-width: 800px;
+        min-height: 300px;
+        max-height: 500px;
+        position: fixed;
+        box-shadow: rgb(241, 241, 241) 5px 5px;
+    }
 }
