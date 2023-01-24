@@ -67,9 +67,13 @@
         color: #fff;
         font-weight: 600;
    }
+   .content-joinus-title {
+    margin: 10px;
+    min-height: 120px;
+  }
 }
 /* moblie */
-@media screen and (max-width: 739px) {
+@media only screen and (max-width: 739px) {
     section {
         width: 100%;
    }
