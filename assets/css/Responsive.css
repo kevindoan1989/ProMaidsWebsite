@@ -832,7 +832,10 @@
         width: 20px;
         height: 20px;
       }
-    
+      .outservice-content {
+        min-height: 30px;
+        margin: 5px;
+     }
 
 }
 
