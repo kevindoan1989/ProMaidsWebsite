@@ -569,6 +569,30 @@
         padding-top: 5px;
     }
 
+    .content-main-desc > section {
+        width: 100%;
+        height: 700px !important;
+    }
+
+    .content-main-desc-3 {
+        height: 1200px !important;
+    }
+
+    .session-introduction {
+        height: 650px;
+        /* float: left; */
+    }
+
+    .img-contentdetail-img-inner {
+        width: 70%;
+        height: 60%;
+        display: inline-block;
+        margin-top: 12%;
+        margin-left: 8%;
+        position: absolute;
+        z-index: 2;
+        padding: 5px;
+    }
 }
 
 /* PC */
