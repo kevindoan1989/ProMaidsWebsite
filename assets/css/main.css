@@ -738,3 +738,11 @@ li > a {
   .attention-title {
     color:#338F00;
 }
+
+.home-title {
+  color: #338F00;
+  margin: 5px;
+}
+.home-content {
+  margin: 5px;
+}
