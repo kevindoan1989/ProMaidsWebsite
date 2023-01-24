@@ -576,6 +576,16 @@
         margin: 5px;
      }
 
+     .form-popup {
+        display: none;
+        position: absolute;
+        top: 12;
+        right: 50px;
+        border: 3px solid #f1f1f1;
+        border-radius: 15px;
+        z-index: 9;
+    }
+
 }
 @media only screen and (max-width: 1240px) and (min-width: 1024px)
 {
