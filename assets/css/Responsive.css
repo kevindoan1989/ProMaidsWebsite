@@ -69,8 +69,15 @@
    }
    .content-joinus-title {
     margin: 10px;
-    min-height: 120px;
+    min-height: 95px;
   }
+  .grp-title-joinus {
+    min-height: 250px;
+    }
+    .attention-title {
+        min-height: 32px;
+        color:#338F00;
+    }
 }
 /* moblie */
 @media only screen and (max-width: 739px) {
