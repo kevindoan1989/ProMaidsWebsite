@@ -515,8 +515,23 @@
         font-size: 18px;
         margin-top: 5px;
     }
-
+    
     .container-popup {
+        width: 95% !important;
+    }
+
+    .form-popup {
+        display: none;
+        position: absolute;
+        bottom: 0;
+        right: 15px;
+        border: 3px solid #f1f1f1;
+        border-radius: 15px;
+        z-index: 9;
+        width: 95%;
+    }
+
+    .contactForm {
         width: 95% !important;
     }
 
