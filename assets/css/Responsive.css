@@ -578,6 +578,13 @@
         height: 1200px !important;
     }
 
+    .content-main-desc-1 {
+        height: 500px !important;
+    }
+
+    .content-main-desc-2 {
+        height: 720px !important;
+    }
     .session-introduction {
         height: 650px;
         /* float: left; */
@@ -592,6 +599,14 @@
         position: absolute;
         z-index: 2;
         padding: 5px;
+    }
+
+    .img-contentdetail-img {
+        display: inline-block;
+        margin: 20px;
+        box-shadow: 5px 10px #e1e1e1;
+        position: relative;
+        height: 200px;
     }
 }
 
