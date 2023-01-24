@@ -85,6 +85,11 @@
         display: inline-block;
         position: relative;
     }
+
+    .outservice-content {
+        min-height: 30px;
+        margin: 5px;
+    }
 }
 /* moblie */
 @media only screen and (max-width: 739px) {
