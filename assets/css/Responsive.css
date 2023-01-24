@@ -841,6 +841,10 @@
         min-height: 30px;
         margin: 5px;
      }
+     .img-home-content{
+        width: 45px;
+        height: 45px;
+    }
 
 }
 
