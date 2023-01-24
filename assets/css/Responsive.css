@@ -90,6 +90,20 @@
         min-height: 30px;
         margin: 5px;
     }
+         .img-home-content{
+        width: 45px;
+        height: 45px;
+    }
+
+    .home-title {
+        color: #338F00;
+        margin: 5px;
+        min-height: 32px;
+    }
+    .home-content {
+        margin: 5px;
+        min-height: 40px;
+    }
 }
 /* moblie */
 @media only screen and (max-width: 739px) {
