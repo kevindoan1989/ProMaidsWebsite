@@ -516,6 +516,10 @@
         margin-top: 5px;
     }
 
+    .container-popup {
+        width: 95% !important;
+    }
+
 }
 
 /* PC */
