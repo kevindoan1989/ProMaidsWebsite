@@ -1153,4 +1153,12 @@
         position: fixed;
         box-shadow: rgb(241, 241, 241) 5px 5px;
     }
+    .home-title {
+        color: #338F00;
+        margin: 5px;
+        min-height: 32px;
+    }
+    .home-content {
+        margin: 5px;
+    }
 }
