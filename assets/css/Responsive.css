@@ -1102,6 +1102,15 @@
         /* opacity: 0.7; */
         box-shadow: 10px 10px 10px #dedede;
     }
+
+    .grp-title-joinus {
+        min-height: 265px !important;
+    }
+
+    .content-joinus-title {
+        margin: 10px;
+        min-height: 70px;
+    }
     .form-popup {
         background-color: white;
         top: 16%;
